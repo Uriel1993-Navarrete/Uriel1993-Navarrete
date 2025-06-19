@@ -10,8 +10,8 @@ colaborativo y DevOps.
 - **Lenguajes:** JavaScript, Python, [agregar otros]
 - **Herramientas:** VS Code, Terminal, [agregar otras]
 ## Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[tuusername]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=[tu-username]&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uriel1993-Navarrete&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=Uriel1993-Navarrete&layout=compact&theme=radical)
 ## Proyectos destacados
 - **[github-course-lab1](https://github.com/curso-git-navarrete/github-course-lab1)** -
 Laboratorio de configuración inicial
